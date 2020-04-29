@@ -1,6 +1,8 @@
  
 import React from 'react'
 
+import './digit.css'
+
 const Digit = (props) =>
  {
      return(
