@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Digit from './digit/digit'
+import Digit from './digit/'
 
 const countdown = (props) =>
 
