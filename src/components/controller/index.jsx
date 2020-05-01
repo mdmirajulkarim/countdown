@@ -59,9 +59,6 @@ this.props.laps()
 
     }
 
-
-
-
     getcontroller()
 
     {
